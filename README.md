@@ -73,10 +73,10 @@ Final results:
 ## ✅ **3. Screenshots of Coverage Reports**
 
 ### **Client Coverage**
-![Client Coverage](screenshots/client.png)
+![Client Coverage](./screenshots/client.png)
 
 ### **Server Coverage**
-![Server Coverage](screenshots/server.png)
+![Server Coverage](./screenshots/server.png)
 
 
 ## ✅ **4. Debugging Techniques Demonstrated**
